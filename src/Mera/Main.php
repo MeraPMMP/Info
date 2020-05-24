@@ -5,7 +5,8 @@ namespace Info;
 /*
 * @author CanYB (CanMILASK)
 * @version 1.0
-* @api 3.9.5
+* @api 3.9.5(old)
+* @api 3.12.2(new)
 * @since 28.11.19
 * Plugin Language: Turkish - English
 *
